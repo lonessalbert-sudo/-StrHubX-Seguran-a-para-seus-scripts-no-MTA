@@ -1,0 +1,1 @@
+# -StrHubX-Seguran-a-para-seus-scripts-no-MTA
